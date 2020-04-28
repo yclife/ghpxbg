@@ -17,7 +17,8 @@ class FeedbackController extends ManageBaseController{
 		$count = M("feedback")->where($data)->count();
 		if($count>0){
 			echo("已收到您的反馈，不用重复提交了！");
-		}else{						
+		}else
+		{						
 			$data['att']=I('att','');
 			$data['meth']=I('meth','');
 			$data['effe']=I('effe','');
@@ -28,16 +29,21 @@ class FeedbackController extends ManageBaseController{
 			$data['advise']=I('advise','');
 			$data['ctime']=time();
 			//  $data['regdate']=time();//以当前时间的时间戳保存为报名日期
-			$Feedback = M("feedback"); // 实例化		
-			if($Feedback->add($data)){ // 根据条件保存修改的数据
-					echo("报名提交成功！");
-		     $reg=M('studyreg');
-			 $ddd['feedback']=1;
-			$reg->where('opendid="'.$openid.'" and classid="'.$classid.'"')->save($ddd);	
-					
-				}else{ 
-					echo("数据错误，提交失败！");
-				}
+			$feedback = M("feedback"); // 实例化		
+			if($feedback->add($data)){ // 根据条件保存修改的数据
+				$reg=M("studyreg");
+				$savedata['fed'] = 1;
+				$condition['opendid'] = $openid;
+				$condition['classid'] = $classid;
+				$result=$reg->where($condition)->save($savedata);	
+				echo("提交成功！");	
+				
+			}else{ 
+				echo("数据错误，提交失败！");
+			}
+				
+		
+		
 			}
          }
 }

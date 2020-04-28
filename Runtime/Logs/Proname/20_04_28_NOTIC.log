@@ -1,0 +1,8 @@
+[ 2020-04-28T16:02:01+08:00 ] 61.140.244.117 /index.php?s=/w16/proname/proname/getprolist&examtype=0
+NOTIC: [8] Undefined variable: res C:\wamp\www\gzghzx\Application\Common\Model\AppsModel.class.php 第 69 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\wamp\www\gzghzx\Application\Common\Model\MenuModel.class.php 第 168 行.
+
+[ 2020-04-28T16:17:10+08:00 ] 61.140.244.117 /index.php?s=/w16/proname/proname/getprolist&examtype=0
+NOTIC: [8] Undefined variable: res C:\wamp\www\gzghzx\Application\Common\Model\AppsModel.class.php 第 69 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\wamp\www\gzghzx\Application\Common\Model\MenuModel.class.php 第 168 行.
+

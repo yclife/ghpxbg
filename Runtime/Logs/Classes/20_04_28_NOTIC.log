@@ -1,0 +1,5 @@
+[ 2020-04-28T16:17:13+08:00 ] 61.140.244.117 /index.php?s=/w16/classes/classes/getclasses&examtypeid=0&pid=2&dname=%E4%B8%BB%E8%A6%81%E8%B4%9F%E8%B4%A3%E4%BA%BA
+NOTIC: [8] Undefined variable: res C:\wamp\www\gzghzx\Application\Common\Model\AppsModel.class.php 第 69 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\wamp\www\gzghzx\Application\Common\Model\MenuModel.class.php 第 168 行.
+NOTIC: [8] Undefined index: trainnewstitle C:\wamp\www\gzghzx\Addons\Classes\Controller\ClassesController.class.php 第 59 行.
+

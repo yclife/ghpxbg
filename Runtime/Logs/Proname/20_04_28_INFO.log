@@ -1,0 +1,10 @@
+[ 2020-04-28T16:02:01+08:00 ] 61.140.244.117 /index.php?s=/w16/proname/proname/getprolist&examtype=0
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015624s ]
+
+[ 2020-04-28T16:17:10+08:00 ] 61.140.244.117 /index.php?s=/w16/proname/proname/getprolist&examtype=0
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+

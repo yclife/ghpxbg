@@ -1,0 +1,4 @@
+[ 2020-04-28T16:17:12+08:00 ] 61.140.244.117 /index.php?s=/w16/duties/duties/getdutieslist&pname=%E5%8D%B1%E5%8C%96%E5%93%81%E7%94%9F%E4%BA%A7%E5%8D%95%E4%BD%8D
+NOTIC: [8] Undefined variable: res C:\wamp\www\gzghzx\Application\Common\Model\AppsModel.class.php 第 69 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\wamp\www\gzghzx\Application\Common\Model\MenuModel.class.php 第 168 行.
+

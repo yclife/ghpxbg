@@ -150,8 +150,10 @@ class StudyregController extends ManageBaseController{
 	function reglist_distinct() {
 		
 		$openid=I('openid');
+		$condition['openid']=$openid;
+		$condition['fed']=0;
 		if($openid!=''){
-		$data=M('v2')->field('classid,classname,openid')->group('classid,classname,openid')->where(array('openid'=>$openid,'feedback'=>0))->select();
+		$data=M('studyreg')->where($condition)->field('classid,classname,openid')->group('classid,classname,openid')->select();
 		//var_dump($data);
 	    print json_encode($data);  
 		}

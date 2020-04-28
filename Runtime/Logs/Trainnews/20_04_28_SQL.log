@@ -1,0 +1,20 @@
+[ 2020-04-28T16:16:55+08:00 ] 61.140.244.117 /index.php?s=/w16/trainnews/trainnews/gettrainlist
+SQL: SELECT * FROM `we_card_custom` WHERE `token` = 'gh_bdcc514a5666'  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `we_apps_link` WHERE `uid` = 0  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `we_auth_group_access` [ RunTime:0.0156s ]
+SQL: SELECT a.uid,a.group_id,g.title,g.rules FROM we_auth_group_access a INNER JOIN we_auth_group g on a.group_id=g.id  WHERE ( a.uid='' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `we_menu` WHERE `place` = 0 AND `is_hide` = 0 ORDER BY sort asc, id asc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `we_trainnews` [ RunTime:0.0000s ]
+SQL: SELECT `id`,`title`,`img`,`ctime`,`publisher` FROM `we_trainnews` ORDER BY ctime desc  [ RunTime:0.0156s ]
+SQL: SELECT * FROM `we_picture` WHERE `status` = 1 AND `id` = 1525 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `we_picture` WHERE `status` = 1 AND `id` = 920 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `we_picture` WHERE `status` = 1 AND `id` = 1527 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2020-04-28T16:17:15+08:00 ] 61.140.244.117 /index.php?s=/w16/trainnews/trainnews/gettraininfo&id=13
+SQL: SELECT * FROM `we_card_custom` WHERE `token` = 'gh_bdcc514a5666'  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `we_apps_link` WHERE `uid` = 0  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `we_auth_group_access` [ RunTime:0.0156s ]
+SQL: SELECT a.uid,a.group_id,g.title,g.rules FROM we_auth_group_access a INNER JOIN we_auth_group g on a.group_id=g.id  WHERE ( a.uid='' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `we_menu` WHERE `place` = 0 AND `is_hide` = 0 ORDER BY sort asc, id asc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `we_trainnews` WHERE `id` = 13 LIMIT 1   [ RunTime:0.0000s ]
+

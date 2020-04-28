@@ -1,0 +1,75 @@
+[ 2020-04-28T14:58:36+08:00 ] 61.140.244.117 /index.php?s=/w16/feedback/feedback/addfeedback&classid=2020003&classname=2020%E5%B9%B4%E7%AC%AC2%E6%9C%9F%E5%8D%B1%E5%8C%96%E5%93%81%E7%BB%8F%E8%90%A5%E5%8D%95%E4%BD%8D%E4%B8%BB%E8%A6%81%E8%B4%9F%E8%B4%A3%E4%BA%BA%E5%88%9D%E6%AC%A1%E5%9F%B9%E8%AE%AD%E7%8F%AD&regname=undefined&openid=oSlbk5CUQbDlTy3CIUHp5nvlCjv8&att=%E9%9D%9E%E5%B8%B8%E6%BB%A1%E6%84%8F&meth=%E6%BB%A1%E6%84%8F&effe=%E6%BB%A1%E6%84%8F&arra=%E9%9D%9E%E5%B8%B8%E6%BB%A1%E6%84%8F&dev=%E9%9D%9E%E5%B8%B8%E6%BB%A1%E6%84%8F&env=%E9%9D%9E%E5%B8%B8%E6%BB%A1%E6%84%8F&serv=%E6%BB%A1%E6%84%8F&advise=fgfgfdgdg
+NOTIC: [8] Undefined variable: res C:\wamp\www\gzghzx\Application\Common\Model\AppsModel.class.php 第 69 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\wamp\www\gzghzx\Application\Common\Model\MenuModel.class.php 第 168 行.
+
+[ 2020-04-28T14:59:23+08:00 ] 61.140.244.117 /index.php?s=/w16/feedback/feedback/addfeedback&classid=2020003&classname=2020%E5%B9%B4%E7%AC%AC2%E6%9C%9F%E5%8D%B1%E5%8C%96%E5%93%81%E7%BB%8F%E8%90%A5%E5%8D%95%E4%BD%8D%E4%B8%BB%E8%A6%81%E8%B4%9F%E8%B4%A3%E4%BA%BA%E5%88%9D%E6%AC%A1%E5%9F%B9%E8%AE%AD%E7%8F%AD&regname=undefined&openid=oSlbk5CUQbDlTy3CIUHp5nvlCjv8&att=%E9%9D%9E%E5%B8%B8%E6%BB%A1%E6%84%8F&meth=%E6%BB%A1%E6%84%8F&effe=%E6%BB%A1%E6%84%8F&arra=%E9%9D%9E%E5%B8%B8%E6%BB%A1%E6%84%8F&dev=%E9%9D%9E%E5%B8%B8%E6%BB%A1%E6%84%8F&env=%E9%9D%9E%E5%B8%B8%E6%BB%A1%E6%84%8F&serv=%E6%BB%A1%E6%84%8F&advise=fgfgfdgdg
+NOTIC: [8] Undefined variable: res C:\wamp\www\gzghzx\Application\Common\Model\AppsModel.class.php 第 69 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\wamp\www\gzghzx\Application\Common\Model\MenuModel.class.php 第 168 行.
+
+[ 2020-04-28T15:00:01+08:00 ] 61.140.244.117 /index.php?s=/w16/feedback/feedback/addfeedback&classid=2020003&classname=2020%E5%B9%B4%E7%AC%AC2%E6%9C%9F%E5%8D%B1%E5%8C%96%E5%93%81%E7%BB%8F%E8%90%A5%E5%8D%95%E4%BD%8D%E4%B8%BB%E8%A6%81%E8%B4%9F%E8%B4%A3%E4%BA%BA%E5%88%9D%E6%AC%A1%E5%9F%B9%E8%AE%AD%E7%8F%AD&regname=undefined&openid=oSlbk5CUQbDlTy3CIUHp5nvlCjv8&att=%E9%9D%9E%E5%B8%B8%E6%BB%A1%E6%84%8F&meth=%E6%BB%A1%E6%84%8F&effe=%E6%BB%A1%E6%84%8F&arra=%E9%9D%9E%E5%B8%B8%E6%BB%A1%E6%84%8F&dev=%E9%9D%9E%E5%B8%B8%E6%BB%A1%E6%84%8F&env=%E9%9D%9E%E5%B8%B8%E6%BB%A1%E6%84%8F&serv=%E6%BB%A1%E6%84%8F&advise=fgfgfdgdg
+NOTIC: [8] Undefined variable: res C:\wamp\www\gzghzx\Application\Common\Model\AppsModel.class.php 第 69 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\wamp\www\gzghzx\Application\Common\Model\MenuModel.class.php 第 168 行.
+
+[ 2020-04-28T15:02:18+08:00 ] 61.140.244.117 /index.php?s=/w16/feedback/feedback/addfeedback&classid=2020003&classname=2020%E5%B9%B4%E7%AC%AC2%E6%9C%9F%E5%8D%B1%E5%8C%96%E5%93%81%E7%BB%8F%E8%90%A5%E5%8D%95%E4%BD%8D%E4%B8%BB%E8%A6%81%E8%B4%9F%E8%B4%A3%E4%BA%BA%E5%88%9D%E6%AC%A1%E5%9F%B9%E8%AE%AD%E7%8F%AD&regname=undefined&openid=oSlbk5CUQbDlTy3CIUHp5nvlCjv8&att=%E9%9D%9E%E5%B8%B8%E6%BB%A1%E6%84%8F&meth=%E6%BB%A1%E6%84%8F&effe=%E6%BB%A1%E6%84%8F&arra=%E9%9D%9E%E5%B8%B8%E6%BB%A1%E6%84%8F&dev=%E9%9D%9E%E5%B8%B8%E6%BB%A1%E6%84%8F&env=%E9%9D%9E%E5%B8%B8%E6%BB%A1%E6%84%8F&serv=%E6%BB%A1%E6%84%8F&advise=fgfgfdgdg
+NOTIC: [8] Undefined variable: res C:\wamp\www\gzghzx\Application\Common\Model\AppsModel.class.php 第 69 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\wamp\www\gzghzx\Application\Common\Model\MenuModel.class.php 第 168 行.
+
+[ 2020-04-28T15:07:12+08:00 ] 61.140.244.117 /index.php?s=/w16/feedback/feedback/addfeedback&classid=2020003&classname=2020%E5%B9%B4%E7%AC%AC2%E6%9C%9F%E5%8D%B1%E5%8C%96%E5%93%81%E7%BB%8F%E8%90%A5%E5%8D%95%E4%BD%8D%E4%B8%BB%E8%A6%81%E8%B4%9F%E8%B4%A3%E4%BA%BA%E5%88%9D%E6%AC%A1%E5%9F%B9%E8%AE%AD%E7%8F%AD&regname=undefined&openid=oSlbk5CUQbDlTy3CIUHp5nvlCjv8&att=%E6%BB%A1%E6%84%8F&meth=%E6%BB%A1%E6%84%8F&effe=%E6%BB%A1%E6%84%8F&arra=%E6%BB%A1%E6%84%8F&dev=%E9%9D%9E%E5%B8%B8%E6%BB%A1%E6%84%8F&env=%E6%BB%A1%E6%84%8F&serv=%E6%BB%A1%E6%84%8F&advise=ewr
+NOTIC: [8] Undefined variable: res C:\wamp\www\gzghzx\Application\Common\Model\AppsModel.class.php 第 69 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\wamp\www\gzghzx\Application\Common\Model\MenuModel.class.php 第 168 行.
+
+[ 2020-04-28T15:07:57+08:00 ] 61.140.244.117 /index.php?s=/w16/feedback/feedback/addfeedback&classid=2020003&classname=2020%E5%B9%B4%E7%AC%AC2%E6%9C%9F%E5%8D%B1%E5%8C%96%E5%93%81%E7%BB%8F%E8%90%A5%E5%8D%95%E4%BD%8D%E4%B8%BB%E8%A6%81%E8%B4%9F%E8%B4%A3%E4%BA%BA%E5%88%9D%E6%AC%A1%E5%9F%B9%E8%AE%AD%E7%8F%AD&regname=undefined&openid=oSlbk5CUQbDlTy3CIUHp5nvlCjv8&att=%E9%9D%9E%E5%B8%B8%E6%BB%A1%E6%84%8F&meth=%E9%9D%9E%E5%B8%B8%E6%BB%A1%E6%84%8F&effe=%E9%9D%9E%E5%B8%B8%E6%BB%A1%E6%84%8F&arra=&dev=%E6%BB%A1%E6%84%8F&env=%E6%BB%A1%E6%84%8F&serv=&advise=sss
+NOTIC: [8] Undefined variable: res C:\wamp\www\gzghzx\Application\Common\Model\AppsModel.class.php 第 69 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\wamp\www\gzghzx\Application\Common\Model\MenuModel.class.php 第 168 行.
+
+[ 2020-04-28T15:09:22+08:00 ] 61.140.244.117 /index.php?s=/w16/feedback/feedback/addfeedback&classid=2020003&classname=2020%E5%B9%B4%E7%AC%AC2%E6%9C%9F%E5%8D%B1%E5%8C%96%E5%93%81%E7%BB%8F%E8%90%A5%E5%8D%95%E4%BD%8D%E4%B8%BB%E8%A6%81%E8%B4%9F%E8%B4%A3%E4%BA%BA%E5%88%9D%E6%AC%A1%E5%9F%B9%E8%AE%AD%E7%8F%AD&regname=undefined&openid=oSlbk5CUQbDlTy3CIUHp5nvlCjv8&att=%E9%9D%9E%E5%B8%B8%E6%BB%A1%E6%84%8F&meth=%E9%9D%9E%E5%B8%B8%E6%BB%A1%E6%84%8F&effe=%E6%BB%A1%E6%84%8F&arra=%E6%BB%A1%E6%84%8F&dev=%E6%BB%A1%E6%84%8F&env=%E6%BB%A1%E6%84%8F&serv=%E6%BB%A1%E6%84%8F&advise=eeeee
+NOTIC: [8] Undefined variable: res C:\wamp\www\gzghzx\Application\Common\Model\AppsModel.class.php 第 69 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\wamp\www\gzghzx\Application\Common\Model\MenuModel.class.php 第 168 行.
+
+[ 2020-04-28T15:13:42+08:00 ] 61.140.244.117 /index.php?s=/w16/feedback/feedback/addfeedback&classid=2020003&classname=2020%E5%B9%B4%E7%AC%AC2%E6%9C%9F%E5%8D%B1%E5%8C%96%E5%93%81%E7%BB%8F%E8%90%A5%E5%8D%95%E4%BD%8D%E4%B8%BB%E8%A6%81%E8%B4%9F%E8%B4%A3%E4%BA%BA%E5%88%9D%E6%AC%A1%E5%9F%B9%E8%AE%AD%E7%8F%AD&regname=undefined&openid=oSlbk5CUQbDlTy3CIUHp5nvlCjv8&att=%E9%9D%9E%E5%B8%B8%E6%BB%A1%E6%84%8F&meth=%E9%9D%9E%E5%B8%B8%E6%BB%A1%E6%84%8F&effe=%E9%9D%9E%E5%B8%B8%E6%BB%A1%E6%84%8F&arra=%E9%9D%9E%E5%B8%B8%E6%BB%A1%E6%84%8F&dev=%E9%9D%9E%E5%B8%B8%E6%BB%A1%E6%84%8F&env=%E9%9D%9E%E5%B8%B8%E6%BB%A1%E6%84%8F&serv=&advise=yy
+NOTIC: [8] Undefined variable: res C:\wamp\www\gzghzx\Application\Common\Model\AppsModel.class.php 第 69 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\wamp\www\gzghzx\Application\Common\Model\MenuModel.class.php 第 168 行.
+
+[ 2020-04-28T15:15:30+08:00 ] 61.140.244.117 /index.php?s=/w16/feedback/feedback/addfeedback&classid=2020003&classname=2020%E5%B9%B4%E7%AC%AC2%E6%9C%9F%E5%8D%B1%E5%8C%96%E5%93%81%E7%BB%8F%E8%90%A5%E5%8D%95%E4%BD%8D%E4%B8%BB%E8%A6%81%E8%B4%9F%E8%B4%A3%E4%BA%BA%E5%88%9D%E6%AC%A1%E5%9F%B9%E8%AE%AD%E7%8F%AD&regname=undefined&openid=oSlbk5CUQbDlTy3CIUHp5nvlCjv8&att=%E9%9D%9E%E5%B8%B8%E6%BB%A1%E6%84%8F&meth=&effe=%E9%9D%9E%E5%B8%B8%E6%BB%A1%E6%84%8F&arra=&dev=&env=&serv=&advise=dd
+NOTIC: [8] Undefined variable: res C:\wamp\www\gzghzx\Application\Common\Model\AppsModel.class.php 第 69 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\wamp\www\gzghzx\Application\Common\Model\MenuModel.class.php 第 168 行.
+
+[ 2020-04-28T15:21:59+08:00 ] 61.140.244.117 /index.php?s=/w16/feedback/feedback/addfeedback&classid=2020003&classname=2020%E5%B9%B4%E7%AC%AC2%E6%9C%9F%E5%8D%B1%E5%8C%96%E5%93%81%E7%BB%8F%E8%90%A5%E5%8D%95%E4%BD%8D%E4%B8%BB%E8%A6%81%E8%B4%9F%E8%B4%A3%E4%BA%BA%E5%88%9D%E6%AC%A1%E5%9F%B9%E8%AE%AD%E7%8F%AD&regname=undefined&openid=oSlbk5CUQbDlTy3CIUHp5nvlCjv8&att=%E9%9D%9E%E5%B8%B8%E6%BB%A1%E6%84%8F&meth=%E9%9D%9E%E5%B8%B8%E6%BB%A1%E6%84%8F&effe=%E6%BB%A1%E6%84%8F&arra=&dev=%E6%BB%A1%E6%84%8F&env=%E6%BB%A1%E6%84%8F&serv=&advise=sfdfsd
+NOTIC: [8] Undefined variable: res C:\wamp\www\gzghzx\Application\Common\Model\AppsModel.class.php 第 69 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\wamp\www\gzghzx\Application\Common\Model\MenuModel.class.php 第 168 行.
+NOTIC: [8] Undefined variable: result C:\wamp\www\gzghzx\Addons\Feedback\Controller\FeedbackController.class.php 第 37 行.
+
+[ 2020-04-28T15:24:36+08:00 ] 61.140.244.117 /index.php?s=/w16/feedback/feedback/addfeedback&classid=2020003&classname=2020%E5%B9%B4%E7%AC%AC2%E6%9C%9F%E5%8D%B1%E5%8C%96%E5%93%81%E7%BB%8F%E8%90%A5%E5%8D%95%E4%BD%8D%E4%B8%BB%E8%A6%81%E8%B4%9F%E8%B4%A3%E4%BA%BA%E5%88%9D%E6%AC%A1%E5%9F%B9%E8%AE%AD%E7%8F%AD&regname=undefined&openid=oSlbk5CUQbDlTy3CIUHp5nvlCjv8&att=%E9%9D%9E%E5%B8%B8%E6%BB%A1%E6%84%8F&meth=%E6%BB%A1%E6%84%8F&effe=%E6%BB%A1%E6%84%8F&arra=%E9%9D%9E%E5%B8%B8%E6%BB%A1%E6%84%8F&dev=%E9%9D%9E%E5%B8%B8%E6%BB%A1%E6%84%8F&env=%E6%BB%A1%E6%84%8F&serv=%E6%BB%A1%E6%84%8F&advise=ert
+NOTIC: [8] Undefined variable: res C:\wamp\www\gzghzx\Application\Common\Model\AppsModel.class.php 第 69 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\wamp\www\gzghzx\Application\Common\Model\MenuModel.class.php 第 168 行.
+
+[ 2020-04-28T15:25:11+08:00 ] 61.140.244.117 /index.php?s=/w16/feedback/feedback/addfeedback&classid=2020003&classname=2020%E5%B9%B4%E7%AC%AC2%E6%9C%9F%E5%8D%B1%E5%8C%96%E5%93%81%E7%BB%8F%E8%90%A5%E5%8D%95%E4%BD%8D%E4%B8%BB%E8%A6%81%E8%B4%9F%E8%B4%A3%E4%BA%BA%E5%88%9D%E6%AC%A1%E5%9F%B9%E8%AE%AD%E7%8F%AD&regname=undefined&openid=oSlbk5CUQbDlTy3CIUHp5nvlCjv8&att=%E5%9F%BA%E6%9C%AC%E6%BB%A1%E6%84%8F&meth=%E9%9D%9E%E5%B8%B8%E6%BB%A1%E6%84%8F&effe=%E9%9D%9E%E5%B8%B8%E6%BB%A1%E6%84%8F&arra=%E9%9D%9E%E5%B8%B8%E6%BB%A1%E6%84%8F&dev=%E6%BB%A1%E6%84%8F&env=%E6%BB%A1%E6%84%8F&serv=%E6%BB%A1%E6%84%8F&advise=ere
+NOTIC: [8] Undefined variable: res C:\wamp\www\gzghzx\Application\Common\Model\AppsModel.class.php 第 69 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\wamp\www\gzghzx\Application\Common\Model\MenuModel.class.php 第 168 行.
+NOTIC: [8] Undefined variable: result C:\wamp\www\gzghzx\Addons\Feedback\Controller\FeedbackController.class.php 第 37 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\gzghzx\Addons\Feedback\Controller\FeedbackController.class.php 第 37 行.
+
+[ 2020-04-28T15:25:12+08:00 ] 61.140.244.117 /index.php?s=/w16/feedback/feedback/addfeedback&classid=2020003&classname=2020%E5%B9%B4%E7%AC%AC2%E6%9C%9F%E5%8D%B1%E5%8C%96%E5%93%81%E7%BB%8F%E8%90%A5%E5%8D%95%E4%BD%8D%E4%B8%BB%E8%A6%81%E8%B4%9F%E8%B4%A3%E4%BA%BA%E5%88%9D%E6%AC%A1%E5%9F%B9%E8%AE%AD%E7%8F%AD&regname=undefined&openid=oSlbk5CUQbDlTy3CIUHp5nvlCjv8&att=%E5%9F%BA%E6%9C%AC%E6%BB%A1%E6%84%8F&meth=%E9%9D%9E%E5%B8%B8%E6%BB%A1%E6%84%8F&effe=%E9%9D%9E%E5%B8%B8%E6%BB%A1%E6%84%8F&arra=%E9%9D%9E%E5%B8%B8%E6%BB%A1%E6%84%8F&dev=%E6%BB%A1%E6%84%8F&env=%E6%BB%A1%E6%84%8F&serv=%E6%BB%A1%E6%84%8F&advise=ere
+NOTIC: [8] Undefined variable: res C:\wamp\www\gzghzx\Application\Common\Model\AppsModel.class.php 第 69 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\wamp\www\gzghzx\Application\Common\Model\MenuModel.class.php 第 168 行.
+
+[ 2020-04-28T15:26:22+08:00 ] 61.140.244.117 /index.php?s=/w16/feedback/feedback/addfeedback&classid=2020003&classname=2020%E5%B9%B4%E7%AC%AC2%E6%9C%9F%E5%8D%B1%E5%8C%96%E5%93%81%E7%BB%8F%E8%90%A5%E5%8D%95%E4%BD%8D%E4%B8%BB%E8%A6%81%E8%B4%9F%E8%B4%A3%E4%BA%BA%E5%88%9D%E6%AC%A1%E5%9F%B9%E8%AE%AD%E7%8F%AD&regname=undefined&openid=oSlbk5CUQbDlTy3CIUHp5nvlCjv8&att=%E9%9D%9E%E5%B8%B8%E6%BB%A1%E6%84%8F&meth=%E6%BB%A1%E6%84%8F&effe=%E6%BB%A1%E6%84%8F&arra=%E6%BB%A1%E6%84%8F&dev=%E6%BB%A1%E6%84%8F&env=%E6%BB%A1%E6%84%8F&serv=%E5%9F%BA%E6%9C%AC%E6%BB%A1%E6%84%8F&advise=sdf
+NOTIC: [8] Undefined variable: res C:\wamp\www\gzghzx\Application\Common\Model\AppsModel.class.php 第 69 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\wamp\www\gzghzx\Application\Common\Model\MenuModel.class.php 第 168 行.
+NOTIC: [8] Undefined variable: result C:\wamp\www\gzghzx\Addons\Feedback\Controller\FeedbackController.class.php 第 37 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\gzghzx\Addons\Feedback\Controller\FeedbackController.class.php 第 37 行.
+
+[ 2020-04-28T15:37:44+08:00 ] 61.140.244.117 /index.php?s=/w16/feedback/feedback/addfeedback&classid=2020003&classname=2020%E5%B9%B4%E7%AC%AC2%E6%9C%9F%E5%8D%B1%E5%8C%96%E5%93%81%E7%BB%8F%E8%90%A5%E5%8D%95%E4%BD%8D%E4%B8%BB%E8%A6%81%E8%B4%9F%E8%B4%A3%E4%BA%BA%E5%88%9D%E6%AC%A1%E5%9F%B9%E8%AE%AD%E7%8F%AD&regname=undefined&openid=oSlbk5CUQbDlTy3CIUHp5nvlCjv8&att=%E6%BB%A1%E6%84%8F&meth=%E6%BB%A1%E6%84%8F&effe=%E6%BB%A1%E6%84%8F&arra=&dev=&env=&serv=%E6%BB%A1%E6%84%8F&advise=sdf
+NOTIC: [8] Undefined variable: res C:\wamp\www\gzghzx\Application\Common\Model\AppsModel.class.php 第 69 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\wamp\www\gzghzx\Application\Common\Model\MenuModel.class.php 第 168 行.
+
+[ 2020-04-28T15:38:35+08:00 ] 61.140.244.117 /index.php?s=/w16/feedback/feedback/addfeedback&classid=2020003&classname=2020%E5%B9%B4%E7%AC%AC2%E6%9C%9F%E5%8D%B1%E5%8C%96%E5%93%81%E7%BB%8F%E8%90%A5%E5%8D%95%E4%BD%8D%E4%B8%BB%E8%A6%81%E8%B4%9F%E8%B4%A3%E4%BA%BA%E5%88%9D%E6%AC%A1%E5%9F%B9%E8%AE%AD%E7%8F%AD&regname=undefined&openid=oSlbk5CUQbDlTy3CIUHp5nvlCjv8&att=%E5%9F%BA%E6%9C%AC%E6%BB%A1%E6%84%8F&meth=%E6%BB%A1%E6%84%8F&effe=%E6%BB%A1%E6%84%8F&arra=%E6%BB%A1%E6%84%8F&dev=%E6%BB%A1%E6%84%8F&env=%E6%BB%A1%E6%84%8F&serv=%E6%BB%A1%E6%84%8F&advise=sfsfsdf
+NOTIC: [8] Undefined variable: res C:\wamp\www\gzghzx\Application\Common\Model\AppsModel.class.php 第 69 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\wamp\www\gzghzx\Application\Common\Model\MenuModel.class.php 第 168 行.
+NOTIC: [8] Undefined variable: result C:\wamp\www\gzghzx\Addons\Feedback\Controller\FeedbackController.class.php 第 44 行.
+NOTIC: [8] Trying to get property of non-object C:\wamp\www\gzghzx\Addons\Feedback\Controller\FeedbackController.class.php 第 44 行.
+
+[ 2020-04-28T15:39:47+08:00 ] 61.140.244.117 /index.php?s=/w16/feedback/feedback/addfeedback&classid=2020003&classname=2020%E5%B9%B4%E7%AC%AC2%E6%9C%9F%E5%8D%B1%E5%8C%96%E5%93%81%E7%BB%8F%E8%90%A5%E5%8D%95%E4%BD%8D%E4%B8%BB%E8%A6%81%E8%B4%9F%E8%B4%A3%E4%BA%BA%E5%88%9D%E6%AC%A1%E5%9F%B9%E8%AE%AD%E7%8F%AD&regname=undefined&openid=oSlbk5CUQbDlTy3CIUHp5nvlCjv8&att=%E9%9D%9E%E5%B8%B8%E6%BB%A1%E6%84%8F&meth=%E9%9D%9E%E5%B8%B8%E6%BB%A1%E6%84%8F&effe=%E6%BB%A1%E6%84%8F&arra=%E6%BB%A1%E6%84%8F&dev=%E6%BB%A1%E6%84%8F&env=%E6%BB%A1%E6%84%8F&serv=%E6%BB%A1%E6%84%8F&advise=df
+NOTIC: [8] Undefined variable: res C:\wamp\www\gzghzx\Application\Common\Model\AppsModel.class.php 第 69 行.
+NOTIC: [2] Invalid argument supplied for foreach() C:\wamp\www\gzghzx\Application\Common\Model\MenuModel.class.php 第 168 行.
+

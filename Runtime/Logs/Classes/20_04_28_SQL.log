@@ -1,0 +1,10 @@
+[ 2020-04-28T16:17:13+08:00 ] 61.140.244.117 /index.php?s=/w16/classes/classes/getclasses&examtypeid=0&pid=2&dname=%E4%B8%BB%E8%A6%81%E8%B4%9F%E8%B4%A3%E4%BA%BA
+SQL: SELECT * FROM `we_card_custom` WHERE `token` = 'gh_bdcc514a5666'  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `we_apps_link` WHERE `uid` = 0  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `we_auth_group_access` [ RunTime:0.0000s ]
+SQL: SELECT a.uid,a.group_id,g.title,g.rules FROM we_auth_group_access a INNER JOIN we_auth_group g on a.group_id=g.id  WHERE ( a.uid='' and g.status='1' )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `we_menu` WHERE `place` = 0 AND `is_hide` = 0 ORDER BY sort asc, id asc  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `we_duties` WHERE ( dname="主要负责人" ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `we_classes` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `we_classes` WHERE `did` = 1 AND `examtype` = '0' AND `pid` = '2' AND `classclose` = 0 ORDER BY ctime desc  [ RunTime:0.0000s ]
+
