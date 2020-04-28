@@ -1,0 +1,1 @@
+[Wed Apr 22 18:06:33.393281 2020] [authz_core:error] [pid 18180:tid 972] [client 47.116.11.125:45496] AH01630: client denied by server configuration: C:/wamp/apps/phpmyadmin4.1.14/
